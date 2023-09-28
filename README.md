@@ -6,6 +6,8 @@ Analyse and Visualise hotel booking data for data analysis
 # Introduction
 ![image1](https://github.com/Winxent/Hotels-Revenue-Trend/assets/146320825/88c72d85-d516-4737-aed1-d36f22b0d805)
 
+Dataset provided: https://docs.google.com/spreadsheets/d/1eR2z1MpTre--WrtiQ8pKxg7LUochNOrN-5WDdELDuIA/edit?usp=sharing
+
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
 # Dashboard
